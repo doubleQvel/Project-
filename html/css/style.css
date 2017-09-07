@@ -22,7 +22,11 @@ scrollbar-highlight-color:#444;
 scrollbar-shadow-color:#444;
 scrollbar-darkshadow-color:#fff;
 }
-
+/*human*/
+.human { 
+margin-bottom: 140px;
+border-bottom: solid 10px #fff; 
+}
 /*ƒŠƒ“ƒN‚Ì•¶šFA‘•üİ’è*/
 a:link{
 color:#444;
@@ -164,3 +168,13 @@ border-left: #ffb5b5 3px solid;
 float: left;
 }
 
+.profile01{
+	paddin: 0.5em 1em;
+	margin: 2em 0;
+	font-weight: bold;
+	border: solid 3px #FFCC99;
+	border-radius: 10px;
+	width:23%;
+	height: 40%;
+	
+}
